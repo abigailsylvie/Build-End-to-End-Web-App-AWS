@@ -1,9 +1,9 @@
 window._config = {
     cognito: {
-        userPoolId: 'us-east-1_F6Vf8fNVS',
-        userPoolClientId: '352cgdf7iuo9cjfmm5rr6j3kpb',
+        userPoolId: 'us-east-1_ZT82sZQs3',
+        userPoolClientId: '734ufhcbfunjbq1afro59uhbkg',
         region: 'us-east-1',
-        secret: 'lcgflelsn2q13u9d8l61n9qe2hl16c3l0ssj99ar5l0nv78alnb' // Replace with the actual secret
+        secret: '6evlcac2f754encq0rgul46rn9r78qbl2dtstfsvelf5nev6l77' // Replace with the actual secret
     },
     api: {
         invokeUrl: '' // API Gateway endpoint (if any)
